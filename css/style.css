@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-color: gray;
+}
+
+ul {
+    padding-top: 250px;
+}
+.lista {
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    padding: 2px;
+}
